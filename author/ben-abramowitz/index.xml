@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Abramowitz | Wennan Zhu</title>
+    <link>https://wennanzhu.github.io/author/ben-abramowitz/</link>
+      <atom:link href="https://wennanzhu.github.io/author/ben-abramowitz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ben Abramowitz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wennanzhu.github.io/images/icon_hu96654d5b2e3c2b623dd39ee76d0d1362_1082_512x512_fill_lanczos_center_2.png</url>
+      <title>Ben Abramowitz</title>
+      <link>https://wennanzhu.github.io/author/ben-abramowitz/</link>
+    </image>
+    
+    <item>
+      <title>Awareness of Voter Passion Greatly Improves the Distortion of Metric Social Choice</title>
+      <link>https://wennanzhu.github.io/publication/abramowitz-2019-awareness/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wennanzhu.github.io/publication/abramowitz-2019-awareness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

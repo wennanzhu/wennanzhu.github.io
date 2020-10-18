@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wennan Zhu</title>
+    <link>https://wennanzhu.github.io/author/wennan-zhu/</link>
+      <atom:link href="https://wennanzhu.github.io/author/wennan-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wennan Zhu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://wennanzhu.github.io/images/icon_hu96654d5b2e3c2b623dd39ee76d0d1362_1082_512x512_fill_lanczos_center_2.png</url>
+      <title>Wennan Zhu</title>
+      <link>https://wennanzhu.github.io/author/wennan-zhu/</link>
+    </image>
+    
+  </channel>
+</rss>

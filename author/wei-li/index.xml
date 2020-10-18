@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Li | Wennan Zhu</title>
+    <link>https://wennanzhu.github.io/author/wei-li/</link>
+      <atom:link href="https://wennanzhu.github.io/author/wei-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wennanzhu.github.io/images/icon_hu96654d5b2e3c2b623dd39ee76d0d1362_1082_512x512_fill_lanczos_center_2.png</url>
+      <title>Wei Li</title>
+      <link>https://wennanzhu.github.io/author/wei-li/</link>
+    </image>
+    
+    <item>
+      <title>Federated Heavy Hitters Discovery with Differential Privacy</title>
+      <link>https://wennanzhu.github.io/publication/zhu-2020-federated/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wennanzhu.github.io/publication/zhu-2020-federated/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

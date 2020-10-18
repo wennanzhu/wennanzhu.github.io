@@ -1,15 +1,15 @@
 {
-  "name": "Academic",
-  "short_name": "Academic",
+  "name": "Wennan Zhu",
+  "short_name": "Wennan Zhu",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
   "icons": [{
-    "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu96654d5b2e3c2b623dd39ee76d0d1362_1082_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu96654d5b2e3c2b623dd39ee76d0d1362_1082_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],

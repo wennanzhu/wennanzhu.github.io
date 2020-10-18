@@ -3,11 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wennanzhu.github.io/</loc>
+    <loc>https://wennanzhu.github.io/publication-type/1/</loc>
+    <lastmod>2020-10-18T16:07:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/publication-type/2/</loc>
+    <lastmod>2020-10-18T16:07:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/publication-type/7/</loc>
+    <lastmod>2020-10-18T16:07:24-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://wennanzhu.github.io/authors/</loc>
+    <lastmod>2020-10-18T16:07:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/author/brendan-mcmahan/</loc>
+    <lastmod>2020-10-18T16:07:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/author/elliot-anshelevich/</loc>
+    <lastmod>2020-10-18T16:07:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/publication/zhu-2020-federated/</loc>
+    <lastmod>2020-10-18T16:07:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/publication/anshelevich-2020-forming/</loc>
+    <lastmod>2020-10-18T16:07:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/author/haicheng-sun/</loc>
+    <lastmod>2020-10-18T16:07:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/publication/zhu-2020-matching/</loc>
+    <lastmod>2020-10-18T16:07:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/author/peter-kairouz/</loc>
+    <lastmod>2020-10-18T16:07:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/publication_types/</loc>
+    <lastmod>2020-10-18T16:07:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/publication/</loc>
+    <lastmod>2020-10-18T16:07:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/author/wei-li/</loc>
+    <lastmod>2020-10-18T16:07:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/author/wennan-zhu/</loc>
+    <lastmod>2020-10-18T16:07:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/</loc>
+    <lastmod>2020-10-18T16:07:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/publication/anshelevich-2019-tradeoffs/</loc>
+    <lastmod>2020-10-18T15:36:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/publication/abramowitz-2019-awareness/</loc>
+    <lastmod>2020-10-18T15:36:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/author/ben-abramowitz/</loc>
+    <lastmod>2020-10-18T15:36:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/publication/anshelevich-2018-ordinal/</loc>
+    <lastmod>2020-10-18T15:36:32-04:00</lastmod>
   </url>
   
   <url>
@@ -15,19 +107,7 @@
   </url>
   
   <url>
-    <loc>https://wennanzhu.github.io/author/nelson-bighetti/</loc>
-  </url>
-  
-  <url>
     <loc>https://wennanzhu.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://wennanzhu.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://wennanzhu.github.io/publication/</loc>
   </url>
   
   <url>
@@ -36,6 +116,10 @@
   
   <url>
     <loc>https://wennanzhu.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wennanzhu.github.io/author/wennan-zhu/</loc>
   </url>
   
 </urlset>
