@@ -5,12 +5,20 @@
     <link>https://wennanzhu.github.io/publication-type/1/</link>
       <atom:link href="https://wennanzhu.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wennanzhu.github.io/images/icon_hu96654d5b2e3c2b623dd39ee76d0d1362_1082_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://wennanzhu.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Forming better stable solutions in Group Formation Games inspired by Internet Exchange Points (IXPs)</title>
+      <link>https://wennanzhu.github.io/publication/anshelevich-2020-forming/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://wennanzhu.github.io/publication/anshelevich-2020-forming/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Federated Heavy Hitters Discovery with Differential Privacy</title>
